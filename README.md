@@ -3,5 +3,5 @@
 This file contains the General Lake Model (GLM) for Lake Gregory, Nuwara Eliya, Sri Lanka. Sensitivity analysis, met data, calibrated parameters, and R code for running the model.  
 <sub>General Lake Model (GLM) Version 3.1.1 was used in this study.</sub>
  
-**Landsat Surface Tempurature data could found at following Zendo Link**
+**Landsat Surface Temperature data can be found at the following Zendo Link**
 https://doi.org/10.5281/zenodo.17847475
