@@ -5,3 +5,9 @@ This file contains the General Lake Model (GLM) for Lake Gregory, Nuwara Eliya, 
  
 **Landsat Surface Temperature data and ArcGIS models can be found at the following Zendo Link**
 https://doi.org/10.5281/zenodo.17847475
+
+**Factorial Climate Scenario Development for LSWT Assessment can be found at the following Zendo Link**
+https://doi.org/10.5281/zenodo.17856455
+
+**More detailed methodological descriptions are provided in the author’s MSc thesis, available at the following Zenodo repository link**
+https://doi.org/10.5281/zenodo.15675073
