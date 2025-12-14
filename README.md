@@ -9,5 +9,5 @@ https://doi.org/10.5281/zenodo.17847475
 **Factorial Climate Scenario Development for LSWT Assessment can be found at the following Zendo Link**
 https://doi.org/10.5281/zenodo.17856455
 
-**More detailed methodological descriptions are provided in the author’s MSc thesis, available at the following Zenodo repository link**
+**More detailed methodological descriptions are provided in the author’s MSc thesis, available at the following Zendo repository link**
 https://doi.org/10.5281/zenodo.15675073
