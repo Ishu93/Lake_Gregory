@@ -11,3 +11,5 @@ https://doi.org/10.5281/zenodo.17856455
 
 **More detailed methodological descriptions are provided in the author’s MSc thesis, available at the following Zenodo repository link**
 https://doi.org/10.5281/zenodo.15675073
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18045953.svg)](https://doi.org/10.5281/zenodo.18045953)
