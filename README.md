@@ -13,3 +13,8 @@ https://doi.org/10.5281/zenodo.17856455
 https://doi.org/10.5281/zenodo.15675073
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18045953.svg)](https://doi.org/10.5281/zenodo.18045953)
+
+## Author
+
+**Ishan Ravindu**  
+ORCID: https://orcid.org/0009-0000-7084-1639
