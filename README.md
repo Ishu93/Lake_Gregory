@@ -16,5 +16,5 @@ https://doi.org/10.5281/zenodo.15675073
 
 ## Author
 
-**Ishan Ravindu**  
+**D.K.A.I. Ravindu**  
 ORCID: https://orcid.org/0009-0000-7084-1639
